@@ -9,3 +9,22 @@ h1 {
     color: #111827;
     margin-bottom: 10px;
 }
+
+label {
+    color:black
+
+}
+
+
+main {
+    background-color: white; /* White background */
+    padding-top: 8px; /* Paddings */
+    padding-bottom: 30px;
+    padding-left:10px;
+    padding-right:10px;
+    width: 100%;
+    max-width: 600px;
+    box-sizing:border-box;
+    display: flex;
+    justify-content: center;
+}
